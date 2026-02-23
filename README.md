@@ -1,4 +1,4 @@
-# Canon Printer Setup Guide
+# <a href="https://ij.start.setupcanon-ijstart.com/">Canon Printer Setup Guide</a>
 Unpack Your Printer
 Remove all packaging materials and protective tapes.
 
