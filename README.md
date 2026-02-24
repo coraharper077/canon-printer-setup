@@ -1,4 +1,4 @@
-# <a href="https://ij.start.setupcanon-ijstart.com/">Canon Printer Setup Guide</a>
+# <a href="https://sites.google.com/view/ijstart-canoncom/">Canon Printer Setup Guide</a>
 Unpack Your Printer
 Remove all packaging materials and protective tapes.
 
