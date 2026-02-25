@@ -1,4 +1,4 @@
-# <a href="https://printersolvy.com">Canon Printer Setup Guide</a>
+# <a href="https://printersolvy.com/canon-tutorial/">Canon Printer Setup Guide</a>
 # <p><a href="https://printersolvy.com/canon-tutorial/"><img src="/canon ij setup.png" alt="canon com ijsetup" /></a></p>
 Unpack Your Printer
 Remove all packaging materials and protective tapes.
